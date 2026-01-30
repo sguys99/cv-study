@@ -1,0 +1,21 @@
+# Data & Models
+data/*
+!data/.gitkeep
+!data/README.md
+models/*
+!models/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
